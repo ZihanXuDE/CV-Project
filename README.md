@@ -3,4 +3,4 @@ This is a CV project from the Computer Vision course at TUM. The theme of this p
 
 Owing to time constraints, only the 3D models of target images are shown here for poster session (you can open it with MATLAB). Explanation of principles and operation will be given at the poster session.
 
-I think I will upload the code here in the next two to three months and explain the relevant principles for your reference.
+I will upload the code here in the next two to three months and explain the relevant principles for your reference.
