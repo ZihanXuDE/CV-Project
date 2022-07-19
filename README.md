@@ -1,7 +1,7 @@
 # CV-Project: Tour Into the Picture
 This is a CV project from the Computer Vision course at TUM. The theme of this project is Tour Into the Picture (TIP).
 
-You can download the fig-data to get the reconstructed 3D models from 2D images (you can open it with MATLAB). Explanation of principles and operation will be given at the poster session.
+You can download the fig-data to get the reconstructed 3D models from 2D images (you can open it with MATLAB). We have also shot a video about our program (https://youtu.be/-Ys71NXrcx0). Explanation of principles and operation will be given at the poster session.
 
 I'll also show you some result images below for reference.
 
