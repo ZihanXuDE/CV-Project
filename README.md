@@ -32,7 +32,11 @@ This picture shows a street scene of Hongkong. There are many foreground objects
 Task 3: Oil Painting
 This is not a real picture but an oil painting, nevertheless, my program has successfully reconstructed its 3D space with some foreground objects. You can just take a look at the result via oil-painting.fig because it is a reletive simple image.
 
+<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/oil-painting.png" width="700px">
+
 Task 4: Simple Room
-This is an oil painting. You can take a look at the result via simple-room.fig.
+This is also an oil painting. You can take a look at the result via simple-room.fig.
+
+<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/simple-room.png" width="700px">
 
 Owing to time constraints, I will give the other details later.
